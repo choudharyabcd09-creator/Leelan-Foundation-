@@ -1,7 +1,7 @@
-# Suvera-Foundation-
+# Leelan-Foundation-
 Study Tracker and Student Counselling
 # 📌 Description
-Suvera Foundation is an open-source web application designed to help students manage their study schedules, track daily progress, and access counselling support. The platform aims to empower students, especially those preparing for competitive exams, by improving productivity and mental well-being.
+Leelan Foundation is an open-source web application designed to help students manage their study schedules, track daily progress, and access counselling support. The platform aims to empower students, especially those preparing for competitive exams, by improving productivity and mental well-being.
 
 ## ✨ Features
 - 📚 Study Session Scheduler
